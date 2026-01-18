@@ -46,7 +46,7 @@ This project is perfect if you are starting with Python, building logic, or crea
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/basic-calculator.git
+git clone https://github.com/Sabyasachidwivedi007/basic-calculator.git
 ```
 
 Move into the project folder:
